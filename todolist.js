@@ -1,4 +1,3 @@
-// todolist.js
 const fs = require('fs');
 
 let tasks = [];
