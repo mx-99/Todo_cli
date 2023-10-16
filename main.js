@@ -1,4 +1,3 @@
-// main.js
 const readline = require('readline');
 const todoList = require('./todolist');
 
